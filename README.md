@@ -2,6 +2,8 @@
 ==============================
 Custom firmware for the cheap T-962 reflow oven utilizing the _existing_ controller hardware.
 
+This is has edited reflow profiles to add in MG Chemicals 4860P Sn63Pb37 paste.
+
  - [Wiki] for more info
  - [Hackaday post]
  - We have [Travis-CI] in place to build pull requests
